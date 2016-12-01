@@ -1,6 +1,6 @@
 <?php
 
-echo 'This is PRIVATE STAGING';
+echo 'This is PRIVATE STAGING Revised';
 
 echo '<pre>'; print_r($_SERVER); echo '</pre>';
 
