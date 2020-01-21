@@ -1,6 +1,6 @@
 <?php
 
-echo 'This is PRIVATE 1';
+echo 'This is PRIVATE';
 
 echo '<pre>'; print_r($_SERVER); echo '</pre>';
 
